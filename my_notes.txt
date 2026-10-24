@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿This is my original local file.
 Add these words directly from GitHub Web.
 Adding feature branch updates.
+=======
+﻿This is my original local file.
+Added these words directly from GitHub web.
+Adding feature branch updates.
+>>>>>>> 982b734f576ba7a60c867d595816b772f9734683
